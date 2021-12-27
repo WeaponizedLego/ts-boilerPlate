@@ -2,4 +2,4 @@ import lodash from 'lodash'
 
 const _ = lodash
 
-console.log(_)
+console.log('hello world')
